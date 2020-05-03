@@ -1,4 +1,3 @@
-import P5 from "p5";
+import P5 from 'p5'
 
-export default consts = {
-}
+export default consts = {}
